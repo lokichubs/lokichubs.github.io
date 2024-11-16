@@ -1,24 +1,24 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Lokesh Sriram",
+    "label": "Senior at Purdue - Mechanical Engineering",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "loki.p.sriram@gmail.com",
+    "phone": "(330) 842 5423",
+    "url": "https://lokichubs.github.io/",
+    "summary": "Student striving to excel in controls, robotics, and machine learning ",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
+      "address": "318 N Salisbury",
+      "postalCode": "IN 47906",
+      "city": "West Lafayette",
       "countryCode": "US",
-      "region": "California"
+      "region": "Indiana"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "LinkedIn",
+        "username": "Lokesh Sriram",
+        "url": "https://www.linkedin.com/in/lokesh-sriram/"
       }
     ]
   },
