@@ -1,109 +1,63 @@
 {
   "basics": {
-    "name": "Lokesh Sriram",
-    "label": "Senior at Purdue - Mechanical Engineering",
+    "name": "Albert Einstein",
+    "label": "Scientist",
     "image": "",
-    "email": "loki.p.sriram@gmail.com",
-    "phone": "(330) 842 5423",
-    "url": "https://lokichubs.github.io/",
-    "summary": "Student striving to excel in controls, robotics, and machine learning ",
+    "email": "albert@einstein.de",
+    "phone": "(912) 123-4567",
+    "url": "https://alshedivat.github.io/al-folio/",
+    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
     "location": {
-      "address": "318 N Salisbury",
-      "postalCode": "IN 47906",
-      "city": "West Lafayette",
+      "address": "2712 Broadway St",
+      "postalCode": "CA 94115",
+      "city": "San Francisco",
       "countryCode": "US",
-      "region": "Indiana"
+      "region": "California"
     },
     "profiles": [
       {
-        "network": "LinkedIn",
-        "username": "Lokesh Sriram",
-        "url": "https://www.linkedin.com/in/lokesh-sriram/"
+        "network": "Twitter",
+        "username": "AlbertEinstein",
+        "url": "https://twitter.com/AlbertEinstein"
       }
-      
     ]
   },
-
-  "Work": [
+  "work": [
     {
-      "name": "Trace Laboratories",
-      "position": "Robotics Control System Research Assistant",
-      "url": "https://www.thetracelab.com",
-      "startDate": "05-01-2024",
-      "endDate": "(Current Job)",
-      "summary": "",
-      "highlights": ["Kalman Filter Implementation",
-      "Built Data Loader for Tight Learned Inertial Odometry (TLIO)",
-      "VICON MOCAP Data acquisition",
-      "Utilizied D-flow Treadmill alongside Digit humanoid robot"]
-    },
-    {
-      "name": "Herrick Laboratories",
-      "position": "Control System Research Assistant ",
-      "url": "https://engineering.purdue.edu/Herrick",
-      "startDate": "08-01-2022",
-      "endDate": "(Current Job)",
-      "summary": "Developed a variety of control and data acuqisition systems for a Direct Current (DC) distribution residential nano-grid",
-      "highlights": ["First-authored conference paper on DC PoE (Power over Ethernet) Lighting system to be published in International High Performance Building Conference (2024)",
-      "Designed IoT enabled power-sensing system which costs 500$ less than current technologies (TED Spyder)",
-      "Manufactured 4 Printed Circuit Boards (PCB) to improve safety of direct current distribution panel"]
-    },
-    {
-      "name": "Wilsonart",
-      "position": "Research and Development Engineer",
-      "url": "https://www.wilsonart.com",
-      "startDate": "05-01-2023",
-      "endDate": "08-01-2023",
-      "summary": "Optimized laminate manufacturing processes and documented various manufacturing environmental parameters",
-      "highlights": ["Reduced material usage by using modeling leading to annyal savings of $ 345,000",
-      "Determined Scope 1 and Scope 2 emissions for 77 global wilsonart facilities"]
-    },
-    {
-      "name": "Quadratyx",
-      "position": "Digital Twin Research Intern",
-      "url": "https://www.quadratyx.com",
-      "startDate": "06-01-2022",
-      "endDate": "08-01-2022",
-      "summary": "Researched Digitial Twins' utilization into tea supply chains in India",
-      "highlights": ["Explored Python’s, Anylogistix’s, and Unity’s tools to create Digital Twins which analyse human behaviour in 3 different factories in Hyderabad "]
-    }, 
-    {
-      "name": "Karadi Path",
-      "position": "Lead Programmer",
-      "url": "https://www.karadipath.com",
-      "startDate": "08-01-2020",
-      "endDate": "05-01-2021",
-      "summary": "Built Warehouse Inventory Management System",
-      "highlights": ["Developed GUI and back-end using MySQL, JAVA, and JDBC, increasing report generation rate by 60%"]
+      "name": "Institute for Advanced Study, Princeton University",
+      "position": "Professor of Theoretical Physics",
+      "url": "https://example.com",
+      "startDate": "1933-01-01",
+      "endDate": "1955-01-01",
+      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
+      "highlights": ["Relativity"]
     }
- 
   ],
-
+  "volunteer": [
+    {
+      "organization": "People's Climate March",
+      "location": "Zurich, Switzerland",
+      "position": "Lead Organizer",
+      "url": "https://example.com",
+      "startDate": "2014-04-01",
+      "endDate": "2015-07-01",
+      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
+      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+    }
+  ],
   "education": [
     {
-      "institution": "Purdue University",
-      "location": "West Lafayette, Indiana, United States",
-      "url": "https://engineering.purdue.edu/ME",
-      "Major": "Mechanical Engineering",
-      "studyType": "BS",
-      "Minor": "Mathematics",
-      "startDate": "08-01-2021",
-      "endDate": "05-15-2025",
-      "GPA": "4.0"
-    },
-    {
-      "institution": "Lalaji Memoria Omega International School (LMOIS)",
-      "location": "Chennai, Tamil Nadu, India",
-      "url": "https://www.omegaschools.org",
-      "Major": "Science",
-      "studyType": "International Baccalaureate (IB) Diploma",
-      "startDate": "06-01-2019",
-      "endDate": "06-01-2021",
-      "Score": "42/45"
+      "institution": "University of Zurich, Zurich, Switzerland",
+      "location": "Zurich, Switzerland",
+      "url": "https://www.uzh.ch/",
+      "area": "Software Development",
+      "studyType": "PhD",
+      "startDate": "1905-01-01",
+      "endDate": "1905-01-01",
+      "score": "10",
+      "courses": ["Theory of Relativity"]
     }
-
   ],
-  
   "awards": [
     {
       "title": "Nobel Prize in Physics",
@@ -113,7 +67,50 @@
       "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
     }
   ],
-
+  "certificates": [
+    {
+      "name": "Machine Learning",
+      "date": "2018-01-01",
+      "issuer": "Stanford University",
+      "url": "https://example.com",
+      "icon": "fa-solid fa-location-dot"
+    },
+    {
+      "name": "Quantum Computing",
+      "date": "2018-01-01",
+      "issuer": "Stanford University",
+      "url": "https://example.com",
+      "icon": "fa-solid fa-tag"
+    },
+    {
+      "name": "Quantum Information",
+      "date": "2018-01-01",
+      "issuer": "Stanford University",
+      "url": "https://example.com",
+      "icon": "fa-solid fa-envelope"
+    },
+    {
+      "name": "Quantum Cryptography",
+      "date": "2018-01-01",
+      "issuer": "Stanford University",
+      "url": "https://example.com",
+      "icon": "fa-solid fa-hashtag"
+    },
+    {
+      "name": "Quantum Communication",
+      "date": "2018-01-01",
+      "issuer": "Stanford University",
+      "url": "https://example.com",
+      "icon": "fa-solid fa-calendar"
+    },
+    {
+      "name": "Quantum Teleportation",
+      "date": "2018-01-01",
+      "issuer": "Stanford University",
+      "url": "https://example.com",
+      "icon": "fa-solid fa-clipboard-check"
+    }
+  ],
   "publications": [
     {
       "name": "Zur Elektrody/namik bewegter Körper",
@@ -152,32 +149,15 @@
       ]
     }
   ],
-  "volunteer": [
-    {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
-    }
-  ],
   "languages": [
     {
-      "language": "Tamizh",
+      "language": "German",
       "fluency": "Native speaker",
       "icon": ""
     },
     {
       "language": "English",
       "fluency": "Fluent",
-      "icon": ""
-    },
-    {
-      "language": "French",
-      "fluency": "Intermediate",
       "icon": ""
     }
   ],
