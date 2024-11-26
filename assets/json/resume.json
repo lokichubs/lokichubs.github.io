@@ -205,5 +205,28 @@
       "endDate": "2023-06-01",
       "url": "https://jmec.ecn.purdue.edu"
     }
+  ],
+
+  "volunteer": [
+    {
+      "organization": "Government of Tamil Nadu",
+      "location": "Chennai, India",
+      "position": "Event Organizer",
+      "url": "N/A",
+      "startDate": "2020-01-01",
+      "endDate": "2020-02-01",
+      "summary": "Organized and managed blood donation drive on event day",
+      "highlights": ["Networked with government officials to hire certified blood nurses/doctors"]
+    },
+    {
+      "organization": "Lalaji Memorial Omega International School - Kalanjali",
+      "location": "Chennai, India",
+      "position": "Technical Lead",
+      "url": "https://www.omegaschools.org/kalanjali-2019/",
+      "startDate": "2019-06-01",
+      "endDate": "2019-11-02",
+      "summary": "Arranged a concert for an audience of over 2000 people in collaboration with Madras Music Academy",
+      "highlights": ["Oversaw the technology team, 50 people, to set up and manage backstage operations on day of concert", "Generated over 200,000 INR of income through “Kalanjali” for charity"]
+    }
   ]
 }
