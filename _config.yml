@@ -81,13 +81,13 @@ flickr_id: # your flickr id
 github_username: lokichubs # your GitHub user name
 gitlab_username: # your GitLab user name
 ieee_id: # your ieeexplore.ieee.org/author/id
-inspirehep_id: 1010907 # Inspire HEP author ID
-instagram_id: # your instagram id
-kaggle_id: chubsloki# your kaggle id
+inspirehep_id: # Inspire HEP author ID
+instagram_id: chubsloki # your instagram id
+kaggle_id:  # your kaggle id
 keybase_username: # your keybase user name
 lastfm_id: # your lastfm id
 lattes_id: # your ID on Lattes (Brazilian Lattes CV)
-linkedin_username: Lokesh Sriram # your LinkedIn user name
+linkedin_username: lokesh-sriram # your LinkedIn user name
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 medium_username: # your Medium username
 orcid_id: # your ORCID ID
