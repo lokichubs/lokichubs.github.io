@@ -5,7 +5,6 @@ description: Utilized Machine Learning with traditional controls methods for cur
 img: assets/img/TLIO_project_image.png
 importance: 1
 category: work
-related_publications: true
 ---
 
 The TLIO Data Loader Model focuses on creating a reliable dataloader for our motion capture (MOCAP) and Inertial Measurment Unit (IMU) data pipeline. 
@@ -16,7 +15,7 @@ The TLIO Data Loader Model focuses on creating a reliable dataloader for our mot
     </div>
 </div>
 <div class="caption">
-    Tight Learned Inertial Odometry (TLIO) {% cite Liu_2020 %} Flowchart
+    Tight Learned Inertial Odometry (TLIO) Flowchart
 </div>
 
 Reinforcement Learning is used to determine the displacement estimates of the IMU at any point in time. Then an Extended Kalman Filter (EKF) was used to integrate the displacement and determine the roll, pitch, and yaw. 
