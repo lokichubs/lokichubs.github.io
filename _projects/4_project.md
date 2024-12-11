@@ -39,7 +39,7 @@ After this, the gerber was created with the appopriate parts chosen and was manu
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/PCB_Gerber.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/PCB_Girber.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="row">
@@ -47,7 +47,6 @@ After this, the gerber was created with the appopriate parts chosen and was manu
         {% include figure.liquid loading="eager" path="assets/img/PCB_BOM.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-
 <div class="caption">
     Top Shows the gerber diagram and bottom shows the Bill of Materials (BOM) for the same
 </div>
