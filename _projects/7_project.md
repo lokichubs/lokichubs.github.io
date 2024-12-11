@@ -3,7 +3,7 @@ layout: page
 title: project 7
 description: with background image
 img: assets/img/4.jpg
-importance: 2
+importance: 1
 category: fun
 related_publications: true
 ---

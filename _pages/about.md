@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Address. Contacts. Motto. Etc.
 
 profile:
   align: right
@@ -22,6 +22,6 @@ Hey, I'm Lokesh Sriram (AKA Loki), an engineering student with a passion for tra
 
 The ability of engineering to turn ideas into reality fascinates me. Through hands-on research experiences at Ray W Herrick Laboratories and TRACE Lab, I've learned to navigate the entire innovation cycle, transforming conceptual challenges into practical, impactful solutions
 
-When I'm not diving into technical projects, you'll find me exploring my diverse interests.I box when university gets particularly frustrating. I make music when I need a break (check out my soundcloud) . I sing and play the piano before each an every exam.Finally,if I can find the time , I read manga and watch anime
+When I'm not diving into technical projects, you'll find me exploring my diverse interests. I box when university gets particularly frustrating. I make music when I need a break (check out my soundcloud). I sing and play the piano before each an every exam.Finally,if I can find the time , I read manga and watch anime
 
 My journey is driven by a simple goal: to create technology that makes a meaningful difference in how we live, work, and interact with the world around us and having fun while doing so.

@@ -4,7 +4,7 @@ title: ParkVue
 description: A Pitch for an Internet of Everything (IoT) based Parking Management System
 img: assets/img/ParkVue_Pitch/ParkVue_Cover.png
 importance: 6
-category: Work
+category: work
 ---
 
 Below is the Pitch Slides we presented at the <a href='https://jmec.ecn.purdue.edu'>John martinson Enterpreneurial Center (JMEC)</a> and won the start up incubator award for!
