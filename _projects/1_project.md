@@ -16,7 +16,7 @@ The TLIO Data Loader Model focuses on creating a reliable dataloader for our mot
     </div>
 </div>
 <div class="caption">
-    Tight Learned Inertial Odometry (TLIO) Flowchart
+    Tight Learned Inertial Odometry (TLIO) {% cite Liu_2020 %} Flowchart
 </div>
 
 Reinforcement Learning is used to determine the displacement estimates of the IMU at any point in time. Then an Extended Kalman Filter (EKF) was used to integrate the displacement and determine the roll, pitch, and yaw. 
