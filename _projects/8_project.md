@@ -3,8 +3,8 @@ layout: page
 title: project 8
 description: an other project with a background image and giscus comments
 img: assets/img/9.jpg
-importance: 5
-category: work
+importance: 3
+category: fun
 giscus_comments: true
 ---
 

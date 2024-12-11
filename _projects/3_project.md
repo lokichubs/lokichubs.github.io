@@ -72,3 +72,5 @@ We then compared the price and error of the custom DAQ with respect to the IotWa
     </div>
 </div>
 
+Read my publication {% cite farha2023design %} to learn more.
+
