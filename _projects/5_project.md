@@ -67,6 +67,6 @@ In addition to this, I often worked on assembling different parts of the car fra
     Example of Jigging Design in Siemens NX
 </div>
 
-In the year of 2023, the Purdue FSAE team placed 2nd overall!!
+In the year of 2023, the Purdue FSAE team placed 2nd overall in the National Michigan races!!
 
 
