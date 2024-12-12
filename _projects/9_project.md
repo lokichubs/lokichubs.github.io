@@ -1,6 +1,6 @@
 ---
 layout: page
-title: My Sketches
+title: My *Attempt* at sketching
 description: Some of my drawings
 img: assets/img/Drawing_Portfolio/Slide_1.jpg
 importance: 3

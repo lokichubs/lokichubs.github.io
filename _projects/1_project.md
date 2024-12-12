@@ -7,7 +7,7 @@ importance: 1
 category: work
 ---
 
-The TLIO Data Loader Model focuses on creating a reliable dataloader for our motion capture (MOCAP) and Inertial Measurment Unit (IMU) data pipeline. 
+The TLIO Data Loader Model focuses on creating a reliable dataloader using Python for our motion capture (MOCAP) and Inertial Measurment Unit (IMU) data pipeline. 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
