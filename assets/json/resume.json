@@ -182,7 +182,7 @@
 
   "projects": [
     {
-      "name": "Passion Project - Jarvis",
+      "name": "Passion Project - Minutes",
       "summary": "Working on creating machine learning based assistant for college students and security",
       "highlights": ["Siamese Neural Network", "Computer Vision"],
       "startDate": "2024-01-01",
