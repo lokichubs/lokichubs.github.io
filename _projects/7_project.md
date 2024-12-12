@@ -2,7 +2,7 @@
 layout: page
 title: Project - Minutes 
 description: A project that aims to create a personal assistant using machine learning methods and computer vision (if you know you know)
-img: assets/img/MINS_Cover.jpeg
+img: assets/img/MINS_cover.jpeg
 importance: 1
 category: fun
 ---
@@ -49,10 +49,10 @@ Once the model was trained, and verified, I wrote some code in python using the 
 
 <div class="row justify-content-sm-center">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/MINS_open.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/MINS_Case_open.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/MINS_open_fail.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/MINS_Case_open_fail.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
