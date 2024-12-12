@@ -23,7 +23,9 @@ An EP called "THE JUICEBOX" has the 6 tracks below - each song is supposed to be
         controls=true 
         loop=false
         class="audio-player"
-        title="Coco Juice" %}
+        title="Coco Juice"
+        controlsList="nodownload"
+        ncontextmenu="return false" %}
     </div>
 </div>
 
@@ -37,7 +39,9 @@ An EP called "THE JUICEBOX" has the 6 tracks below - each song is supposed to be
         controls=true 
         loop=false
         class="audio-player"
-        title="Grape Juice" %}
+        title="Grape Juice" 
+        controlsList="nodownload"
+        ncontextmenu="return false" %}
     </div>
 </div>
 
@@ -50,7 +54,9 @@ An EP called "THE JUICEBOX" has the 6 tracks below - each song is supposed to be
         controls=true 
         loop=false
         class="audio-player"
-        title="Strawberry Juice ft. Ma & Pa" %}
+        title="Strawberry Juice ft. Ma & Pa" 
+        controlsList="nodownload"
+        ncontextmenu="return false" %}
     </div>
 </div>
 
@@ -63,7 +69,9 @@ An EP called "THE JUICEBOX" has the 6 tracks below - each song is supposed to be
         controls=true 
         loop=false
         class="audio-player"
-        title="Orange Fanta Juice" %}
+        title="Orange Fanta Juice" 
+        controlsList="nodownload"
+        ncontextmenu="return false" %}
     </div>
 </div>
 
@@ -76,7 +84,9 @@ An EP called "THE JUICEBOX" has the 6 tracks below - each song is supposed to be
         controls=true 
         loop=false
         class="audio-player"
-        title="Cranberry Juice" %}   
+        title="Cranberry Juice" 
+        controlsList="nodownload"
+        ncontextmenu="return false" %}   
     </div>
 </div>
 
@@ -89,7 +99,9 @@ An EP called "THE JUICEBOX" has the 6 tracks below - each song is supposed to be
         controls=true 
         loop=false
         class="audio-player"
-        title="Watermelon Juice" %}
+        title="Watermelon Juice" 
+        controlsList="nodownload"
+        ncontextmenu="return false" %}
     </div>
 </div>
 
@@ -104,7 +116,9 @@ The tracks below are scrap tracks that probably will end up on a different proje
         controls=true 
         loop=false
         class="audio-player"
-        title="Ascend" %}
+        title="Ascend" 
+        controlsList="nodownload"
+        ncontextmenu="return false" %}
     </div>
 </div>
 
@@ -117,6 +131,8 @@ The tracks below are scrap tracks that probably will end up on a different proje
         controls=true 
         loop=false
         class="audio-player"
-        title="Casino Royale" %}
+        title="Casino Royale" 
+        controlsList="nodownload"
+        ncontextmenu="return false" %}
     </div>
 </div>

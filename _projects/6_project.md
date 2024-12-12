@@ -7,7 +7,7 @@ importance: 6
 category: work
 ---
 
-Below is the Pitch Slides we presented at the <a href='https://jmec.ecn.purdue.edu'>John martinson Enterpreneurial Center (JMEC)</a> and won the start up incubator award for!
+Below is the Pitch Slides our team  presented at the <a href='https://jmec.ecn.purdue.edu'>John martinson Enterpreneurial Center (JMEC)</a> and won the $ 10,000 Start-Up Incubator Award!
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
