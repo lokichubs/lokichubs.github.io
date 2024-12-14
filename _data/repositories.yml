@@ -1,7 +1,7 @@
 github_users:
   - lokichubs
 
-repo_description_lines_max: 2
+repo_description_lines_max: 10
 
 github_repos:
   - lokichubs/TLIO-Data-Loader
