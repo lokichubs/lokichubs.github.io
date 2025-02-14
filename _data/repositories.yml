@@ -4,7 +4,8 @@ github_users:
 repo_description_lines_max: 10
 
 github_repos:
+  - lokichubs/TerraProbe
+  - Purdue-DC-Nanogrid-House-Project/ev-battery-model
   - lokichubs/TLIO-Data-Loader
   - lokichubs/pzem-power-monitor
   - lokichubs/Warehouse-Inv-Mgmt-System
-  - lokichubs/lokichubs.github.io
