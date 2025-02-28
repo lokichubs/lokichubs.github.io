@@ -3,7 +3,7 @@ layout: page
 title: Safety Printed Circuit Board (PCB) for Direct Current (DC) distribution panel
 description: A project that involved the design, manufacturing, and installation of a custom PCB
 img: assets/img/PCB_3D_Model.png
-importance: 4
+importance: 6
 category: work
 ---
 

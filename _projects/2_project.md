@@ -3,7 +3,7 @@ layout: page
 title: Power Over Ethernet (POE) Lighting System Implementation
 description: A project which revolved around the implementation of Direct Current (DC) Lighting Systems and its comparison to AC lighting systems in a residential space.
 img: assets/img/publication_preview/Publication_Preview_Lighting.png
-importance: 2
+importance: 4
 category: work
 related_publications: true
 ---

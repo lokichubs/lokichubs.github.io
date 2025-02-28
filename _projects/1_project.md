@@ -3,7 +3,7 @@ layout: page
 title: Tight Learned Inetrial Odometry (TLIO) Data Loader
 description: Utilized Machine Learning with traditional controls methods for current pose estimation for humanoid robot - Digit
 img: assets/img/TLIO_project_image.png
-importance: 1
+importance: 3
 category: work
 ---
 

@@ -3,7 +3,7 @@ layout: page
 title: ParkVue
 description: A Pitch for an Internet of Everything (IoT) based Parking Management System
 img: assets/img/ParkVue_Pitch/ParkVue_Cover.png
-importance: 6
+importance: 8
 category: work
 ---
 

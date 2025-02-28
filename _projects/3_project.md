@@ -3,7 +3,7 @@ layout: page
 title: Custom Data Power Acquisition System Using Hobby Electronics
 description: A project that replicates expensive power acquisition systems' accuracy at a lower price
 img: assets/img/publication_preview/Publication_Preview_PZEM.png
-importance: 3
+importance: 5
 category: work
 related_publications: true
 ---
