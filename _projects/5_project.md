@@ -3,7 +3,7 @@ layout: page
 title: Formula Society of Automotive Engineers (FSAE) - Aerodynamics
 description: Worked on aerodynamic design team to design and manufacture multiple automotive parts
 img: assets/img/FSAE_Cover.jpeg
-importance: 7
+importance: 8
 category: work
 ---
 
