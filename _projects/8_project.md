@@ -3,6 +3,7 @@ layout: page
 title: Music Production
 description: A collection of different beats i've made
 img: assets/img/MP_Cover.jpeg
+redirect: https://soundcloud.com/loki_chubs
 importance: 2
 category: fun
 giscus_comments: false
