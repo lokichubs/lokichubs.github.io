@@ -9,9 +9,9 @@ profile:
   image: disp_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>318 N Salisbury</p>
-    <p>Apt 18</p>
-    <p>West Lafayette, IN 47906</p>
+    <p>MS in Artificial Inetlligence Engineering - CMU </p>
+    <p>BS in Mechanical Engineering - Purdue </p>
+    <p><p>
 
 news: False # includes a list of news items
 selected_papers: False # includes a list of papers marked as "selected={true}"

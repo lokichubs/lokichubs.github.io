@@ -1,7 +1,7 @@
 ---
 layout: page
 title: TerraProbe
-description: A Project which revolves around the design and manufacturing of a soil collection sample robot
+description: Designed, machined, and assembled a 12-inch soil coring robot to improve sample integrity for agricultural research
 img: assets/img/TerraProbe_disp.png
 redirect: https://github.com/lokichubs/TerraProbe
 importance: 1

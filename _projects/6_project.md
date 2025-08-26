@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ParkVue
-description: A Pitch for an Internet of Everything (IoT) based Parking Management System
+description: A Pitch for an Internet of Everything (IoT) based Parking Management System that won $10,000 in the John Martin Entrpreneurial Center (JMEC) competition.
 img: assets/img/ParkVue_Pitch/ParkVue_Cover.png
 importance: 9
 category: work
