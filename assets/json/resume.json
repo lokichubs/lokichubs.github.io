@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Lokesh Sriram",
-    "label": "Senior at Purdue - Mechanical Engineering",
+    "label": "M.S in Artificial Intelligence Engineering - CMU",
     "image": "",
     "email": "loki.p.sriram@gmail.com",
     "phone": "(330) 842 5423",
@@ -24,27 +24,37 @@
   },
   "work": [
     {
-      "name": "Trace Laboratories",
-      "position": "Robotics Control System Research Assistant",
-      "url": "https://www.thetracelab.com",
-      "startDate": "2024-05-01",
+      "name": "NeuroMechatronics Lab - CMU",
+      "position": "Graduate Research Assistant",
+      "url": "https://www.meche.engineering.cmu.edu/faculty/neuromechatronics-lab.html",
+      "startDate": "2025-08-01",
       "endDate": "(Current)",
-      "summary": "Worked on Implementing data acuqusition for machine learning based control systems",
-      "highlights": ["Kalman Filter Implementation",
-      "Built Data Loader for Tight Learned Inertial Odometry (TLIO)",
-      "VICON MOCAP Data acquisition",
-      "Utilizied D-flow Treadmill alongside Digit humanoid robot"]
+      "summary": "Working on creating high density electrocardiogram (HDECG) sensors and analyzing data for motor neuron intent detection",
+      "highlights": ["Designed 8x8 grid of electrodes with 2mm pitch usinng kicad and fabricated using PCBWay"]
     },
     {
       "name": "Herrick Laboratories",
       "position": "Control System Research Assistant ",
       "url": "https://engineering.purdue.edu/Herrick",
       "startDate": "2022-08-01",
-      "endDate": "2024-08-01",
+      "endDate": "2025-08-01",
       "summary": "Developed a variety of control and data acuqisition systems for a Direct Current (DC) distribution residential nano-grid",
-      "highlights": ["First-authored conference paper on DC PoE (Power over Ethernet) Lighting system to be published in International High Performance Building Conference (2024)",
-      "Designed IoT enabled power-sensing system which costs 500$ less than current technologies (TED Spyder)",
-      "Manufactured 4 Printed Circuit Boards (PCB) to improve safety of direct current distribution panel"]
+      "highlights": ["Created MPC for Vehicle to Home (V2H) EV charging, integrating HVAC and solar to minimize grid consumption and feedback",
+        "Deployed IoT power-sensing system leading to $500 savings over TED Spyder and second author publication to ASHRAE Transactions",
+      "Designed a Direct Current (DC) Lighting system and Raspberry Pi/C++ current data acquisition system, leading to 20% energy savings in comparison to traditional lighting system ;led to lead author publication to Herrick Conferences 2024",
+      "Built printed circuit boards (PCB) for custom smart switches;allowing for remote control of a 380 V DC bus"]
+    },
+    {
+      "name": "Trace Laboratories",
+      "position": "Robotics Control System Research Assistant",
+      "url": "https://www.thetracelab.com",
+      "startDate": "2024-05-01",
+      "endDate": "2025-01-01",
+      "summary": "Worked on Implementing data acuqusition for machine learning based control systems",
+      "highlights": ["Kalman Filter Implementation",
+      "Built Data Loader for Tight Learned Inertial Odometry (TLIO)",
+      "VICON MOCAP Data acquisition",
+      "Utilizied D-flow Treadmill alongside Digit humanoid robot"]
     },
     {
       "name": "Wilsonart",
@@ -79,6 +89,17 @@
 
   "education": [
     {
+      "institution": "Carnegie Mellon University,Pittsburgh",
+      "location": "Pennsylvania, US",
+      "url": "https://www.cmu.edu",
+      "area": "Artificial Intelligence Engineering",
+      "studyType": "MS",
+      "startDate": "2025-08-01",
+      "endDate": "(Current)",
+      "score": "--",
+      "courses": ["Sensing & Sensors, ML & AI for Engineers, Systems & Toolchains for AI Engineers, Modern Control Theory"]
+    },
+    {
       "institution": "Purdue University West Lafayette",
       "location": "Indiana, US",
       "url": "https://engineering.purdue.edu/ME",
@@ -109,36 +130,72 @@
   ],
   "skills": [
     {
-      "name": "Mechanical Engineering",
+      "name": "Controls & Sensing",
       "level": "Professional",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Control Systems",
-        "Physical Systems Modeling",
-        "Heat and Mass Transfer",
-        "Machine Design"
+        "Model Predictive Control (MPC)", 
+        "Extended Kalman Filter", 
+        "LabVIEW", 
+        "VICON", 
+        "D-Flow"
+
       ]
     },
     {
-      "name": "Machine Learning",
+      "name": "Hardware/Embedded",
       "level": "Professional",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "PyTorch",
-        "TensorFlow",
-        "Dataloader Creation",
-        "Computer Vision "
+        "ESP32",
+        "Raspberry Pi",
+        "Arduino",
+        "Linux",
+        "Modbus",
+        "Ethernet",
+        "KiCad",
+        "PLCs"
       ]
     },
     {
-      "name": "Coding",
+      "name": "Programming",
       "level": "Professional",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
         "Python",
         "C++",
         "MATLAB",
-        "Java"
+        "Java",
+        "ROS2",
+        "MySQL"
+      ]
+    },
+    {
+      "name": "Simulation & CAD",
+      "level": "Professional",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Siemens NX",
+        "Fusion 360",
+        "SolidWorks",
+        "STAR-CCM+",
+        "Modelica",
+        "Dymola"
+      ]
+    },
+    {
+      "name": "Machine Learning & AI:",
+      "level": "Professional",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Pytorch",
+        "TensorFlow",
+        "Apache Spark",
+        "pgAdmin4",
+        "pSQL",
+        "Kafka",
+        "Google Cloud Console",
+        "Tight Learned Inertial Odometry (TLIO)"
       ]
     }
   ],
@@ -181,6 +238,14 @@
   ],
 
   "projects": [
+    {
+      "name": "TerraProbe - Soil Sample Collection Robot",
+      "summary": "Designed a robot to collect soil samples autonomously",
+      "highlights": ["Designed, machined, and assembled a 12 inch soil sampling robot to improve sample integrity for agricultural research", "Modeled force profiles, conducted motor/gear/shaft selection, and FEA using Python and Fusion 360 to achieve a factor of safety > 3.0"],
+      "startDate": "2025-01-01",
+      "endDate": "2025-05-01",
+      "url": "N/A"
+    },
     {
       "name": "Passion Project - Minutes",
       "summary": "Working on creating machine learning based assistant for college students and security",
