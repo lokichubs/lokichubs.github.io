@@ -3,7 +3,7 @@ layout: page
 title: Formula Society of Automotive Engineers (FSAE) - Aerodynamics
 description: Revolved around Computer Aided Design (CAD) of moulds and parts in Siemens NX and Computer Aided Manufacturing (CAM) in Fusion 360 for gantry, water jetting, milling, and laser cutting machines in Fusion 360 to machine molds.
 img: assets/img/FSAE_Cover.jpeg
-importance: 8
+importance: 9
 category: work
 ---
 

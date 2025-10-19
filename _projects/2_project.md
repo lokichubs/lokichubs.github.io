@@ -3,7 +3,7 @@ layout: page
 title: Power Over Ethernet (POE) Lighting System Implementation
 description: Designed and deployed a Direct Current (DC) lighting system. Determined new system uses 20% less energy on larger scales compared to AC Lighting systems using custom built current data aquicition system based on R-Pi. (Led to my first lead author publication - lets goooo)
 img: assets/img/publication_preview/Publication_Preview_Lighting.png
-importance: 4
+importance: 5
 category: work
 related_publications: true
 ---

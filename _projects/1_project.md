@@ -3,7 +3,7 @@ layout: page
 title: Tight Learned Inetrial Odometry (TLIO) Data Loader
 description: Built data pipeline using motion capture system (VICON) and Treadmill (D-Flow) for robot motion profiles (Digit).Utilized the same to develop a data loader in python to reduce IMU (Inertial Measurement Unit) drift by 40 cm/min
 img: assets/img/TLIO_project_image.png
-importance: 3
+importance: 4
 category: work
 ---
 

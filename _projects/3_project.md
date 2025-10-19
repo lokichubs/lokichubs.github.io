@@ -3,7 +3,7 @@ layout: page
 title: Custom Data Power Acquisition System Using Hobby Electronics
 description: Designed and deployed power-sensing system leading to $500 savings over TED Spyder - led to second author publication to ASHRAE Transactions
 img: assets/img/publication_preview/Publication_Preview_PZEM.png
-importance: 5
+importance: 6
 category: work
 related_publications: true
 ---
