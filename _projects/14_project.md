@@ -4,7 +4,7 @@ title: Music Production
 description: Compilation of the beats I've put out so far 
 img: assets/img/MP_Cover.jpeg
 redirect: https://soundcloud.com/loki_chubs
-importance: 2
+importance: 3
 category: music
 giscus_comments: false
 ---
