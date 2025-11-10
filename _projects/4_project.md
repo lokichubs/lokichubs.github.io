@@ -3,7 +3,7 @@ layout: page
 title: Safety Printed Circuit Board (PCB) for Direct Current (DC) distribution panel
 description: Designed a PCB that served as a remote control switch controled by R-Pi - allowing for smart logic to turn on/off 340 V DC bus and increasing safety
 img: assets/img/PCB_3D_Model.png
-importance: 7
+importance: 9
 category: work
 ---
 
