@@ -30,7 +30,7 @@
       "startDate": "2025-08-01",
       "endDate": "(Current)",
       "summary": "Working on creating high density electrocardiogram (HDECG) sensors and analyzing data for motor neuron intent detection",
-      "highlights": ["Designed 8x8 grid of electrodes with 2mm pitch usinng kicad and fabricated using PCBWay"]
+      "highlights": ["Designed 8x8 grid of electrodes with 2mm pitch using kicad and fabricated using PCBWay"]
     },
     {
       "name": "Herrick Laboratories",
