@@ -5,7 +5,7 @@ permalink: /projects/
 description: A growing collection of my cool projects. Click on each one to learn more!
 nav: true
 nav_order: 3
-display_categories: [work,music,fun]
+display_categories: [work,entrepreneurship,music,fun]
 horizontal: false
 ---
 
