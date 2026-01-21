@@ -49,7 +49,7 @@ rss_icon: false
 
 navbar_fixed: true
 footer_fixed: true
-search_enabled: true
+search_enabled: false
 socials_in_search: true
 bib_search: true
 
@@ -114,7 +114,7 @@ youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 zotero_username: # your zotero username
 
 contact_note: >
-  Best way to reach me is through g-mail (loki.p.sriram@gmail.com) or outlook (lsriram@purdue.edu)
+  Best way to reach me is through g-mail at loki.p.sriram@gmail.com or lsriram@andrew.cmu.edu
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
