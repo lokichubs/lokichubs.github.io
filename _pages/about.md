@@ -18,12 +18,12 @@ selected_papers: False # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hey, I'm Lokesh Sriram (AKA Loki), an engineering student with a passion for transforming complex technical challenges, and cool ideas, into innovative solutions. Born with an insatiable curiosity, I find joy in bridging the worlds of robotics, machine learning, and creative problem-solving.
+Hey, I'm Lokesh Sriram (AKA Loki), an engineering student who loves building things that bridge the physical and digital worlds. I'm drawn to problems where sensors, machine learning, and hardware come together to help machines understand their environment.
 
-Currently working on nerve signal sensors at NeuroMechatronics Lab - CMU - with professor Doug Weber. 
+Currently working on nerve signal sensors at the NeuroMechatronics Lab with Professor Doug Weber at CMU, exploring how we can better decode signals from the human nervous system.
 
-Engineering's ability to turn ideas into reality fascinates me. Through hands-on research experiences at Ray W Herrick Laboratories and TRACE Lab, I've learned to navigate the entire innovation cycle, transforming conceptual challenges into practical and impactful solutions.
+My hands-on research at Ray W Herrick Laboratories and TRACE Lab taught me how to take projects from initial concept through to working prototypes.
 
-When I'm not diving into technical projects, you'll find me exploring my diverse interests. I box when university gets particularly frustrating. I make music when I need a break (check out my soundcloud). I sing and play the piano before each and every exam. Finally, if I can find the time, I compose tracks, read manga and watch anime.
+Outside the lab, I'm into weightlifting and boxing. I also spend a lot of time producing music,writing lyrics,and singing. When I can, I read manga and watch anime (currently reading "Kingdom")
 
-My journey is driven by a simple goal: to create technology that makes a meaningful difference in how we live, work, and interact with the world around us and having fun while doing so.
+I'm here to build technology that genuinely changes how we interact with the world around us—and to enjoy the process along the way.
