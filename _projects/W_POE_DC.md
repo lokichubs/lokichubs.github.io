@@ -3,7 +3,7 @@ layout: page
 title: Power Over Ethernet (POE) Lighting System Implementation
 description: Designed and deployed a Direct Current (DC) lighting system. Determined new system uses 20% less energy on larger scales compared to AC Lighting systems using custom built current data aquicition system based on R-Pi. (Led to my first lead author publication)
 img: assets/img/publication_preview/Publication_Preview_Lighting.png
-importance: 5
+importance: 6
 category: work
 related_publications: true
 ---
@@ -106,7 +106,7 @@ However, scaling the power consumption to any room larger than one shows that DC
 
 The images show that the DC Lighting PoE system is less efficient at a smaller scale. However, on a larger scale, the power savings can go up to 22%. 
 
-Read my publication {% cite sriram2024development %} to learn more. 
+Read my publication {% cite sriram2024development %} to learn more.
 
 
 
