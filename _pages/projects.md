@@ -6,7 +6,7 @@ description: A growing collection of my cool projects. Click on each one to lear
 nav: true
 nav_order: 3
 display_categories: [work,entrepreneurship,music,fun]
-horizontal_categories: [entrepreneurship]
+horizontal_categories: []
 ---
 <div style="display: flex; gap: 0.5rem; flex-wrap: wrap; margin-bottom: 1.5rem;">
   {% for category in page.display_categories %}
