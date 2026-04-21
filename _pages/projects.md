@@ -6,8 +6,13 @@ description: A growing collection of my cool projects. Click on each one to lear
 nav: true
 nav_order: 3
 display_categories: [work,entrepreneurship,music,fun]
-horizontal: false
+horizontal_categories: [work,entrepreneurship]
 ---
+<div style="display: flex; gap: 0.5rem; flex-wrap: wrap; margin-bottom: 1.5rem;">
+  {% for category in page.display_categories %}
+    <a href=".#{{ category }}" class="btn btn-sm btn-outline-primary">{{ category }}</a>
+  {% endfor %}
+</div>
 
 <!-- pages/projects.md -->
 <div class="projects">
@@ -20,7 +25,7 @@ horizontal: false
   {% assign categorized_projects = site.projects | where: "category", category %}
   {% assign sorted_projects = categorized_projects | sort: "importance" %}
   <!-- Generate cards for each project -->
-  {% if page.horizontal %}
+  {% if page.horizontal_categories contains category %}
   <div class="container">
     <div class="row row-cols-1 row-cols-md-2">
     {% for project in sorted_projects %}
