@@ -1,7 +1,7 @@
 ---
 layout: page
-title: High Density Electromyography (HDEMG) Sensor
-description: This project designs and builds a 64-electrode surface array with 2mm spacing to capture motor neuron activity from muscle tissue, enabling high-resolution sEMG data collection for applications in prosthetics and neural interface research.I designed the electrode array layout and built the accompanying headstage, integrating bio-signal amplifiers to condition and read out muscle activity signals from the array.
+title: High Density EMG Sensor
+description: I designed and built a variet of different 64-electrode  high-density sEMG array, developed reusable 64‑pin headstages with integrated bio-signal amplification for data readout, and implemented software for real-time visualization of motor-unit/nerve signals.
 
 img: assets/img/HDEMG_cover.png
 importance: 2
